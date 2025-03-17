@@ -5,8 +5,8 @@ import './globals.css';
 const poppins = Poppins({ weight: ['400', '700'], style: 'normal', subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'AI Chat Website (by Aidbase)',
-  description: 'AI Chat Website (NextJS + Aidbase Elements)',
+  title: 'ChatAI',
+  description: 'ChatAI Is here to help you with all your questions.',
 };
 
 export default function RootLayout({
