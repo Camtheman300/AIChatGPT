@@ -4,9 +4,9 @@
   "version": "0.1.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Aidbase/ai-chat-website"
+    "url": ""
   },
-  "homepage": "https://chat-website-demo.aidbase.ai",
+  "homepage": "",
   "scripts": {
     "start": "next dev",
     "build": "next build",
